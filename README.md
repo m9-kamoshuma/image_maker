@@ -1,5 +1,5 @@
 # What's this
-# You can chage an image into a mosaic-like image consist of tiny images you choose.
+# You can change an image into a mosaic-like image consist of tiny images you choose.
 
 # How to use 
 # 1:select folder containing material images
